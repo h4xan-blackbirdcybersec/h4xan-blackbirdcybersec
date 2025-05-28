@@ -1,5 +1,5 @@
 ### Hey there, I'm h4xan-blackbirdcybersec
-
+-🔗💥 linkedin `https://www.linkedin.com/in/hasan-ahmed-7a0298351`
 - 🕶️ Offensive Security Enthusiast | Web App Pentester | Bug Hunter  
 - 🛠️ Currently diving deeper into advanced web exploitation techniques  
 - 📚 Lifelong learner in cybersecurity | Red Team curious  
